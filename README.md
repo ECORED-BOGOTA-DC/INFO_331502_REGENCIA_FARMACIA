@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Regencia de farmacia**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-bogota-dc.github.io/INFO_331502_REGENCIA_FARMACIA/](https://ecored-bogota-dc.github.io/INFO_331502_REGENCIA_FARMACIA/)
 
 #
